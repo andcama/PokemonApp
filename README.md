@@ -9,6 +9,6 @@ Pokemon Application built with React Native and TypeScript
 
 ## Screenshots
 
-![PokemonApp](https://github.com/andcama/PokemonApp/blob/master/assets/poke1.png "Image 1 ")
-![PokemonApp](https://github.com/andcama/PokemonApp/blob/master/assets/poke2.png "Image 2")
-![PokemonApp](https://github.com/andcama/PokemonApp/blob/master/assets/poke3.png "Image 3")
+![PokemonApp](https://github.com/andcama/PokemonApp/blob/master/src/assets/poke1.png "Image 1 ")
+![PokemonApp](https://github.com/andcama/PokemonApp/blob/master/src/assets/poke2.png "Image 2")
+![PokemonApp](https://github.com/andcama/PokemonApp/blob/master/src/assets/poke3.png "Image 3")
